@@ -88,7 +88,7 @@ This repository is intended to evolve with ongoing research. Contributors from f
 
 **Grand Research Institute**  
 David Grand, Founder  
-grandfresearchflorida@gmail.com 
+grandresearchflorida@gmail.com 
 
 
 ---
