@@ -1,5 +1,4 @@
 # Grand Research Institute: Past, Present, and Future 
-![My Photo](0/IMG_8673.jpeg)
 The **Grand Research Institute** dedicated to advancing scientific and systems based research across technology, public policy, safety, algorithmic governance, and performance measurement. While originally recognized for groundbreaking work in THC-zero plant research, the Institute has evolved into a broader think tank and innovation lab, addressing real time challenges at the intersection of human performance, AI, and regulatory design.
 
 ---
