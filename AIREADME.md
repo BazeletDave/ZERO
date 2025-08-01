@@ -12,7 +12,7 @@
 
 This report examines the informal, widespread adoption of AI tools across everyday environments from Uber rides to university classrooms. Using a participatory ethnographic approach, we explore how AI is now embedded not only in our devices, but in the workflows, decisions, and relationships that shape modern life.
 
-Casual AI use is altering trust, authority, and information systems in real time. Every user from a bartender to a marine patrol officer becomes both a consumer and co-creator of AI systems. These human-AI feedback loops are already reshaping education, law enforcement, public policy, and ethics and yet, our institutional structures are struggling to keep up.
+Casual AI use is altering trust, authority, and information systems in real time. Every user from a bartender to a marine patrol officer becomes both a consumer and co-creator of AI systems. These human AI feedback loops are already reshaping education, law enforcement, public policy, and ethics and yet, our institutional structures are struggling to keep up.
 
 ---
 
@@ -106,14 +106,14 @@ Neutral settings such as Uber rides or docksides invite candid disclosures and u
 ### 🎓 Education
 
 - **Embrace AI, don’t ban it.** Institutions must foster AI fluency among both students and faculty.
-- **Equity:** Clear, consistent policies. Every educator should allow and embrace use or face the result of the dangerous failure in all history as AI is redefining everything evryday. To restrict AI use is equivilent to not allowing evolution to happen.
+- **Equity:** Clear, consistent policies. Every educator should allow and embrace use or face the result of the dangerous failure in leadership and all history as AI is redefining everything everyday. To restrict AI use is equivilent to not allowing evolution to happen.
 - **New Literacy:** Teach prompt crafting, source verification, and AI critical thinking.
 
 ---
 
 ### 🏛️ Public Policy
 
-- **Acknowledge reality.** AI is already being used in public record creation — act accordingly.
+- **Acknowledge reality.** AI is already being used in public record creation act accordingly.
 - Require:
   - AI-generated content disclosures
   - Metadata tagging
@@ -125,7 +125,7 @@ Neutral settings such as Uber rides or docksides invite candid disclosures and u
 ### 🧬 Human-AI Co-Evolution
 
 - **Everyone is a co-creator.** With LLMs learning from input, casual users influence future model behavior.
-- AI systems must be seen as **living structures** shaped by social behavior — not fixed tools.
+- AI systems must be seen as **living structures** shaped by social behavior not fixed tools.
 
 ---
 
@@ -135,7 +135,7 @@ Neutral settings such as Uber rides or docksides invite candid disclosures and u
   Longitudinal studies on how AI changes when humans actively shape its behavior.
 
 - 🧩 **Ethical Frameworks for Casual Data**  
-  Develop consent standards for data collected in informal or low-awareness environments.
+  Develop consent standards for data collected in informal or low awareness environments.
 
 - 🤝 **Interdisciplinary Forums**  
   Include gig workers, technologists, policymakers, and educators in future policy design.
