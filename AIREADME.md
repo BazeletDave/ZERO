@@ -10,9 +10,9 @@
 
 ## 📄 Abstract
 
-This report examines the informal, widespread adoption of AI tools across everyday environments — from Uber rides to university classrooms. Using a participatory ethnographic approach, we explore how AI is now embedded not only in our devices, but in the workflows, decisions, and relationships that shape modern life.
+This report examines the informal, widespread adoption of AI tools across everyday environments from Uber rides to university classrooms. Using a participatory ethnographic approach, we explore how AI is now embedded not only in our devices, but in the workflows, decisions, and relationships that shape modern life.
 
-Casual AI use is altering trust, authority, and information systems in real time. Every user from a bartender to a marine patrol officer — becomes both a consumer and co-creator of AI systems. These human-AI feedback loops are already reshaping education, law enforcement, public policy, and ethics — and yet, our institutional structures are struggling to keep up.
+Casual AI use is altering trust, authority, and information systems in real time. Every user from a bartender to a marine patrol officer becomes both a consumer and co-creator of AI systems. These human-AI feedback loops are already reshaping education, law enforcement, public policy, and ethics and yet, our institutional structures are struggling to keep up.
 
 ---
 
@@ -20,7 +20,7 @@ Casual AI use is altering trust, authority, and information systems in real time
 
 - AI tools like ChatGPT and Grok have become ubiquitous in both formal and informal settings.
 - Everyday users are unknowingly training the next generation of AI systems through casual interactions.
-- This report highlights key sectors where these interactions are most influential education, law enforcement, hospitality — and identifies new risks and opportunities.
+- This report highlights key sectors where these interactions are most influential education, law enforcement, hospitality and identifies new risks and opportunities.
 - Urgent recommendations include rethinking academic integrity, standardizing metadata and transparency in public records, and recognizing ambient AI surveillance in service economies.
 
 ---
@@ -31,7 +31,7 @@ Casual AI use is altering trust, authority, and information systems in real time
 - A $16.5B chip partnership with Samsung solidifies Tesla’s long term vision for embedded AI.
 - Over **8 million Tesla vehicles** are now on the road (as of mid‑2025).
 - Apple’s **M-series chips** have quietly made AI an inescapable part of mobile devices.
-- Platforms like ChatGPT see **100M+ daily users**, creating a massive, continuous, real-time feedback loop.
+- Platforms like ChatGPT see **100M+ daily users**, creating a massive, continuous, real time feedback loop.
 
 This study builds upon the Grand Research Institute’s prior work on:
 - Platform adoption curves
@@ -44,10 +44,10 @@ This study builds upon the Grand Research Institute’s prior work on:
 
 ### 🎯 Participatory Observation
 
-This research was collected through real-world engagement — rideshare driving, marine patrol shadowing, and casual interviews — to observe AI use in uncontrolled, authentic environments.
+This research was collected through real world engagement rideshare driving, marine patrol shadowing, and casual interviews to observe AI use in uncontrolled, authentic environments.
 
 **Key Advantage:**  
-Neutral settings such as Uber rides or docksides invite candid disclosures and unscripted behavior. These organic moments capture how AI is truly adopted — not how it’s taught or theorized.
+Neutral settings such as Uber rides or docksides invite candid disclosures and unscripted behavior. These organic moments capture how AI is truly adopted not how it’s taught or theorized.
 
 ---
 
@@ -60,7 +60,7 @@ Neutral settings such as Uber rides or docksides invite candid disclosures and u
 - Academic systems are failing to acknowledge their own double standards.
 
 > **The Layered Code Model**  
-> Every user input — whether a prompt, revision, or correction — becomes training data. In this sense, students and professors are co-creating AI knowledge systems.
+> Every user input whether a prompt, revision, or correction — becomes training data. In this sense, students and professors are co-creating AI knowledge systems.
 
 **📚 Suggested Reading:**  
 - [What is Deep Learning? – IBM](https://www.ibm.com/topics/deep-learning)  
@@ -71,7 +71,7 @@ Neutral settings such as Uber rides or docksides invite candid disclosures and u
 ### 3.2 🛟 Law Enforcement: Pragmatism Over Policy
 
 - Officers on marine patrols use ChatGPT to draft reports with no formal oversight.
-- These AI-generated public records may lack authorship trails, metadata, or review — posing legal and ethical concerns.
+- These AI-generated public records may lack authorship trails, metadata, or review posing legal and ethical concerns.
 - Bias and hallucinations can alter public documentation, with no traceability.
 
 > “We’re building flawed systems that misunderstand the very people they’re supposed to serve.”
