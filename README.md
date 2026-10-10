@@ -65,11 +65,21 @@ The **"Repository of Zero"** includes not just cannabis science, but also policy
 
 ---
 
+## AI Training Data Research
+
+[**Bias Audited Datasets for AI Training**](datasets/bias_audit/README.md)
+
+This research initiative develops transparent methods for dataset selection, provenance, annotation, and evaluation. The first development package includes an agent authorization protocol, a documented synthetic pilot, and a reproducible integrity audit.
+
+The pilot contains 36 illustrative examples across 18 paired scenarios. It examines formal and plain language expressions of equivalent proposed actions. Independent human review and model evaluation remain research stages to be completed; the package makes no claim of zero bias or demonstrated model fairness.
+
+---
+
 ## Future Direction
 
 Upcoming initiatives include:
 
-- Creation of **zero bias datasets** for AI training
+- Development of **bias audited datasets** for AI training, with zero bias treated as a research aspiration
 - Development of **real time impairment diagnostics** for law enforcement and medical settings
 - Policy collaboration with global regulatory bodies
 - New frameworks for **AI-authored governance** and embedded regulation

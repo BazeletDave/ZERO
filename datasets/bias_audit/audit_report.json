@@ -1,0 +1,49 @@
+{
+  "audit_version": "0.1.0",
+  "by_split": {
+    "test": {
+      "label_counts": {
+        "approval_required": 2,
+        "authorized": 2,
+        "prohibited": 2
+      },
+      "records": 6,
+      "style_counts": {
+        "formal": 3,
+        "plain": 3
+      }
+    },
+    "train": {
+      "label_counts": {
+        "approval_required": 8,
+        "authorized": 8,
+        "prohibited": 8
+      },
+      "records": 24,
+      "style_counts": {
+        "formal": 12,
+        "plain": 12
+      }
+    },
+    "validation": {
+      "label_counts": {
+        "approval_required": 2,
+        "authorized": 2,
+        "prohibited": 2
+      },
+      "records": 6,
+      "style_counts": {
+        "formal": 3,
+        "plain": 3
+      }
+    }
+  },
+  "dataset_sha256": "6927810e6a78060a347eaf912d02a00a81cb3af150f9e9d6f0c3011973612ac6",
+  "errors": [],
+  "human_review_complete": false,
+  "integrity_passed": true,
+  "interpretation": "Integrity and design coverage only. This audit does not establish fairness, model performance, demographic representation, or freedom from bias.",
+  "records": 36,
+  "scenarios": 18,
+  "training_release_approved": false
+}
