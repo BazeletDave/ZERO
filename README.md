@@ -75,6 +75,12 @@ The pilot contains 36 illustrative examples across 18 paired scenarios. It exami
 
 ---
 
+## Research evolution | From ZERO to institutional governance
+
+**October 2026 GRI research milestone.** ZERO preserves the foundational research trajectory spanning human performance, impairment, regulatory assumptions and algorithmic bias. The [GRI BZLT Americas FLA Institutional governance research](https://github.com/BazeletDave/ConsciousAI/blob/main/GRI-Research-Journey/Living-AI-Ecosystem/BZLT-Governance-Academic-Traceability.md), maintained in the separate [ConsciousAI research archive](https://github.com/BazeletDave/ConsciousAI), extends that inquiry into institutional authority, licensing decisions, accountability, documentary provenance and reproducible evidence assurance.
+
+This is a research lineage and cross reference, not a merger of repositories or a claim that earlier ZERO studies validate later institutional findings. Zero bias and zero impairment remain research aspirations rather than demonstrated outcomes. Documentary corroboration, automated metadata checks, founder review and independent external assurance are distinct verification stages. [Read the Living AI Ecosystem research index](https://github.com/BazeletDave/ConsciousAI/blob/main/GRI-Research-Journey/Living-AI-Ecosystem/README.md).
+
 ## Future Direction
 
 Upcoming initiatives include:
